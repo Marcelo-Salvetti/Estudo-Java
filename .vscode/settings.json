@@ -22,5 +22,6 @@
         "springboot",
         "uncategorized",
         "versionnumber"
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }
